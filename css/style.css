@@ -710,7 +710,7 @@ ul.nav.navbar-main > li:last-child > a {
 }
 .sticky-head .navbar .logo-sticky,
 .sticky-head.header-sticky .navbar .logo-general {
-  display: none;
+  /* display: none; */
 }
 .navbar .navbar-main.menu-white > li > a {
   color: #fff;
